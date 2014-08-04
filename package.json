@@ -1,0 +1,19 @@
+{
+  "name": "jsformat",
+  "version": "0.0.1",
+  "description": "Sorts your script file methods.",
+  "main": "jsformat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "format",
+    "alphabetise",
+    "sort"
+  ],
+  "author": "Brandon R Staley <bstaley0@gmail.com>",
+  "license": "BSD-2-Clause",
+  "preferGlobal": "true",
+  "bin":  {"jsformat": "./bin/jsformat.js"}
+}
