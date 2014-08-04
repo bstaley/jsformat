@@ -7,7 +7,7 @@ A node CLI to do bulk formatting of JavaScript files. Original purpose is to giv
 ###How to install it
 
 `npm install git://github.com/bstaley/jsformat.git `
-######--or--
+######or
 `npm install jsformat`
 
 ###How to run
