@@ -16,6 +16,7 @@ A node CLI to do bulk formatting of JavaScript files. Original purpose is to giv
 3. the interface will ask you what to sort by.
 4. use one sort criteria per line, ex. to sort all variables to the top use 'var'.
 5. submitting a blank line will start the processing.
+
 #####note: when using directory it will recursively search through all folders.
 
 ###Acceptable commands
