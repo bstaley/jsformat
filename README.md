@@ -29,7 +29,7 @@ A node CLI to do bulk formatting of JavaScript files. Original purpose is to giv
 1. Nothing has been implimented to support anything other than JavaScript.
 2. Your JavaScript file has must be formatted in a traditional way before hand.
 3. Nested blocks are may not protected.
-^example:
+example:
 ```JavaScript
 var aaa = 'aaa';
 function xyz(){
