@@ -28,15 +28,6 @@ A node CLI to do bulk formatting of JavaScript files. Original purpose is to giv
 ###Known Issues
 1. Nothing has been implimented to support anything other than JavaScript.
 2. Your JavaScript file has must be formatted in a traditional way before hand.
-3. Nested blocks are may not protected.
-example:
-```JavaScript
-var aaa = 'aaa';
-function xyz(){
-  var bbb = 'bbb';
-}
-```
-now if you apply a sort on the script above with only var you might pull out the var the in the function. More testing is needed to confirm. WORKAROUND: sort by var first and then by function.
 
 ###ToDos
 1. For dir transformations look for file type, if specified.
